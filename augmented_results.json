@@ -1,0 +1,19 @@
+{
+  "clean_accuracy": 0.931351363658905,
+  "architecture": {
+    "filters1": 32,
+    "filters2": 128,
+    "dense_units": 128,
+    "dropout": 0.5,
+    "learning_rate": 0.002643803942855385,
+    "batch_size": 256,
+    "epochs": 20
+  },
+  "augmentations_used": [
+    "random_rotation (up to 20 degrees)",
+    "random_blur (box blur)",
+    "random_gaussian_noise (stddev=0.05)",
+    "random_brightness (delta=0.2)",
+    "random_shift (up to 3 pixels)"
+  ]
+}
