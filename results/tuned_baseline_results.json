@@ -1,0 +1,12 @@
+{
+  "best_params": {
+    "batch_size": 256,
+    "filters1": 32,
+    "filters2": 128,
+    "dense_units": 128,
+    "dropout": 0.5,
+    "learning_rate": 0.002643803942855385
+  },
+  "best_val_acc_during_search": 0.9265540838241577,
+  "final_clean_accuracy": 0.9277027249336243
+}
